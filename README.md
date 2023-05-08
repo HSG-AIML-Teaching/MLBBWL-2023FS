@@ -21,3 +21,5 @@ This repository hosts Jupyter Notebooks relevant to our lectures and lab course.
 | 27 Mar 2023               | Lab 2: Unsupervised Learning   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/MLBBWL-2023FS/blob/main/lab_02/lab_02.ipynb)   |  
 | 24 Apr 2023               | Lab 3: Neural Networks   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/MLBBWL-2023FS/blob/main/lab_03/lab_03.ipynb)
 | 24 Apr 2023               | Coding Assignment 3: Deep Learning   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/MLBBWL-2023FS/blob/main/assignment_3/assignment_3.ipynb)  |
+| 8 May 2023               | Lab 4: Convolutional Neural Networks   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/MLBBWL-2023FS/blob/main/lab_04/lab_04.ipynb) |
+
