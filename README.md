@@ -3,6 +3,8 @@
 
 This repository hosts Jupyter Notebooks relevant to our lectures and lab course. You can launch the Notebooks from this page or from the Canvas course page.
 
+Lecture slides are contained in the `slides/` folder.
+
 
 
 ---
